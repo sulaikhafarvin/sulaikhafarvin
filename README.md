@@ -1,16 +1,28 @@
-### Hi there 👋
+### Sulaikha Farvin
 
-<!--
-**sulaikhafarvin/sulaikhafarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate blockchain developer with a strong background in smart contracts, Solidity, Web3.js etc.I'm dedicated to exploring the potential of blockchain technology to revolutionize industries and create secure and decentralized solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning RUST and Foundry framework.
+- 🌱 I’m constantly learning and keeping up with the latest advancements in the blockchain space.
+- 👯 I’m looking to collaborate on open source blockchain projects.
+
+## Languages and Tools
+
+- Solidity
+- Web3.js
+- Hardhat
+- Truffle
+- Javascript
+- Typescript
+
+
+## Contact Me
+
+- LinkedIn: www.linkedin.com/in/sulaikha-farvin
+- Twitter: https://twitter.com/sulaikhafarvin
+
+Feel free to reach out to me if you're interested in collaborating, discussing blockchain technology, or just connecting!
+
+
